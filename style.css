@@ -181,7 +181,7 @@ color: white;
     flex-direction: row;
     /* flex-wrap: wrap; */
     padding: 3px;
-    gap: 10px;
+    gap: 5px;
 }
 .images img{
     width: 50%;
@@ -216,14 +216,14 @@ color: white;
 
 }
 @media (min-width: 700px){
-    .images{
+    /* .images{
         /* display: flex; */
         /* gap: 10px */
     }
-    .images img{
+    /* .images img{ */
         /* width: 50%; */
         
-    }
+     */
     .img1{
         border: 2px;
     }
@@ -245,7 +245,7 @@ color: white;
         font-size: 1rem;
     }
     
- }
+ 
 
 
 
